@@ -20,6 +20,6 @@ todoRouter.post("/", authenticateUser, addTodo);
 todoRouter.get("/:id", getTodoById);
 todoRouter.put("/:id", authenticateUser, updateTodo);
 todoRouter.delete("/:id", authenticateUser, deleteTodo);
-todoRouter.get("/details/:createdBy", getTodoByUser);
+todoRouter.get("/details/:createdBy", authenticateUser, getTodoByUser);
 
 module.exports = todoRouter;
