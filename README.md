@@ -4,7 +4,7 @@ Todo application using Node.js as the backend framework.
 
 1.  Initializing our project
 
---npm init -y
+-- npm init -y
 
 2.  Setting up package.json
     i. Install the following dependencies
@@ -50,4 +50,4 @@ iii. change the main entry point to server.js
 
 And start the server using nodemon using the following code.
 
---npm run dev
+-- npm run dev
