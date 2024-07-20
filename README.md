@@ -9,11 +9,11 @@ Todo application using Node.js as the backend framework.
 2.  Setting up package.json
     i. Install the following dependencies
 
-    --npm i cors dotenv express mongoose
+        --npm i cors dotenv express mongoose
 
 ii. Install the following development dependencies
 
-    --npm i -D nodemon
+      --npm i -D nodemon
 
 After installing the dependencies the package.json folder should look as follows.
 
@@ -50,4 +50,4 @@ iii. change the main entry point to server.js
 
 And start the server using nodemon using the following code.
 
---npm run dev
+    --npm run dev
