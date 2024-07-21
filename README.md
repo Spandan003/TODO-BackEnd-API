@@ -51,3 +51,21 @@ iii. change the main entry point to server.js
 And start the server using nodemon using the following code.
 
      -- npm run start
+
+# API Endpoints
+
+## Register User
+
+## Login User
+
+## Get All Todos
+
+## Post a Todo by a registered and logged in user
+
+## Delete a Todo by a registered and logged in user
+
+## Edit a Todo by a registered and logged in user
+
+## Get all Todos by a single user
+
+## Get a Todo by a single ID
