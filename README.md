@@ -52,7 +52,7 @@ And start the server using nodemon using the following code.
 
      -- npm run start
 
-# API Endpoints
+#### API Endpoints
 
 ## Register User
 
