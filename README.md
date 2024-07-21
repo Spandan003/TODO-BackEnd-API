@@ -52,20 +52,20 @@ And start the server using nodemon using the following code.
 
      -- npm run start
 
-#### API Endpoints
+# API Endpoints
 
-## Register User
+#### Register User
 
-## Login User
+#### Login User
 
-## Get All Todos
+#### Get All Todos
 
-## Post a Todo by a registered and logged in user
+#### Post a Todo by a registered and logged in user
 
-## Delete a Todo by a registered and logged in user
+#### Delete a Todo by a registered and logged in user
 
-## Edit a Todo by a registered and logged in user
+#### Edit a Todo by a registered and logged in user
 
-## Get all Todos by a single user
+#### Get all Todos by a single user
 
-## Get a Todo by a single ID
+#### Get a Todo by a single ID
