@@ -69,3 +69,8 @@ And start the server using nodemon using the following code.
 #### Get all Todos by a single user
 
 #### Get a Todo by a single ID
+
+## API Documentation Link
+
+https://documenter.getpostman.com/view/37120696/2sA3kUH2zU
+
